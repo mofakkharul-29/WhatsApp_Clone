@@ -1,16 +1,54 @@
-# my_clone
+## 🟢 Live Chat App (Learning Project)
 
-A new Flutter project.
+This project is a **WhatsApp-inspired chat application** built using Flutter for the frontend and a custom backend (NodeJS) for real-time chat features.  
+It’s currently a **learning project** and still **under development**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+### 🚀 Features (Planned & In Progress)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Real-time messaging (still in progress)
+- ✅ User interface similar to WhatsApp
+- 🔄 Backend integration (still in progress)
+- 🔒 Authentication (planned)
+- 💬 Group chat & media support (planned)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+### 📦 Technologies Used
+
+- **Flutter** (Frontend)
+- **Node.js** (Backend)
+- **WebSockets / Socket.io** (for real-time communication)
+- **Git & GitHub** (for version control)
+
+---
+
+### 📚 Why I Made This
+
+This is part of my journey to learn and apply:
+
+- Object-oriented concepts (Inheritance, Encapsulation, Polymorphism)
+- Flutter UI development
+- Async/Await handling
+- Server-client communication
+- Real-time app behavior
+
+### ⚙️ How to Run It Locally
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/mofakkharul-29/WhatsApp_Clone.git
+
+   ```
+
+2. Open my_clone/ in VS Code or Android Studio.
+3. flutter pub get (Run Flutter pub get).
+4. flutter run (Run Flutter pub get)
+5. Open chat_server/ in another terminal and run the backend server.(currently in progress)
+
+📝 Note
+This is a practice project, not production-ready. I'm continuously improving it as I learn more. Feel free to explore or suggest improvements!
